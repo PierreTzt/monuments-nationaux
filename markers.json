@@ -1,0 +1,632 @@
+[
+  {
+    "monument_id": 58,
+    "id": 103706,
+    "name": "Abbaye de Beaulieu-en-Rouergue",
+    "latitude": 44.2012986,
+    "longitude": 1.8576953
+  },
+  {
+    "monument_id": 85,
+    "id": 108041,
+    "name": "Abbaye de Charroux",
+    "latitude": 46.141736,
+    "longitude": 0.404965
+  },
+  {
+    "monument_id": 18,
+    "id": 103751,
+    "name": "Abbaye de Cluny",
+    "latitude": 46.4351729231305,
+    "longitude": 4.65821921825409
+  },
+  {
+    "monument_id": 5,
+    "id": 103783,
+    "name": "Abbaye de La Sauve-Majeure",
+    "latitude": 44.7679,
+    "longitude": -0.3125
+  },
+  {
+    "monument_id": 88,
+    "id": 103840,
+    "name": "Abbaye de Montmajour",
+    "latitude": 43.7056788063795,
+    "longitude": 4.66414824128151
+  },
+  {
+    "monument_id": 68,
+    "id": 111764,
+    "name": "Abbaye du Bec-Hellouin",
+    "latitude": 49.228611,
+    "longitude": 0.721667
+  },
+  {
+    "monument_id": 66,
+    "id": 103819,
+    "name": "Abbaye du Mont-Saint-Michel",
+    "latitude": 48.6359715815921,
+    "longitude": -1.51141405105591
+  },
+  {
+    "monument_id": 94,
+    "id": 103880,
+    "name": "Abbaye du Thoronet",
+    "latitude": 43.4501102,
+    "longitude": 6.3080895
+  },
+  {
+    "monument_id": 20,
+    "id": 103727,
+    "name": "Alignements de Carnac",
+    "latitude": 47.597702,
+    "longitude": -3.0633934
+  },
+  {
+    "monument_id": 74,
+    "id": 103696,
+    "name": "Arc de triomphe",
+    "latitude": 48.873818,
+    "longitude": 2.295023
+  },
+  {
+    "monument_id": 145,
+    "id": 103865,
+    "name": "Basilique cath�drale de Saint-Denis",
+    "latitude": 48.9354196846302,
+    "longitude": 2.35991477966309
+  },
+  {
+    "monument_id": 19,
+    "id": 103704,
+    "name": "Cairn de Barnenez",
+    "latitude": 48.6675691351204,
+    "longitude": -3.85842740535736
+  },
+  {
+    "monument_id": 99,
+    "id": 103771,
+    "name": "Cath�drale de Besan�on et son horloge astronomique",
+    "latitude": 47.2336343,
+    "longitude": 6.0303255
+  },
+  {
+    "monument_id": "",
+    "id": 6415392,
+    "name": "Chapelle des Moines � Berz�",
+    "latitude": 46.36354,
+    "longitude": 4.700442
+  },
+  {
+    "monument_id": 72,
+    "id": 111766,
+    "name": "Chapelle expiatoire",
+    "latitude": 48.8736985969585,
+    "longitude": 2.32269108295441
+  },
+  {
+    "monument_id": 79,
+    "id": 108028,
+    "name": "Ch�teau d'Angers",
+    "latitude": 47.4698136,
+    "longitude": -0.5593384
+  },
+  {
+    "monument_id": 60,
+    "id": 103698,
+    "name": "Ch�teau d'Assier",
+    "latitude": 44.6752839,
+    "longitude": 1.8792255
+  },
+  {
+    "monument_id": 15,
+    "id": 103702,
+    "name": "Ch�teau d'Aulteribe",
+    "latitude": 45.775,
+    "longitude": 3.498889
+  },
+  {
+    "monument_id": 23,
+    "id": 61869,
+    "name": "Ch�teau d'Azay-le-Rideau",
+    "latitude": 47.2595533,
+    "longitude": 0.4666037
+  },
+  {
+    "monument_id": 89,
+    "id": 103773,
+    "name": "Ch�teau d'If",
+    "latitude": 43.2798571264442,
+    "longitude": 5.32513439655304
+  },
+  {
+    "monument_id": 84,
+    "id": 108054,
+    "name": "Ch�teau d'Oiron",
+    "latitude": 46.9518734665508,
+    "longitude": -0.0773334503173828
+  },
+  {
+    "monument_id": 24,
+    "id": 103710,
+    "name": "Ch�teau de Bouges",
+    "latitude": 47.0424048078576,
+    "longitude": 1.67296886444092
+  },
+  {
+    "monument_id": 16,
+    "id": 103720,
+    "name": "Ch�teau de Bussy-Rabutin",
+    "latitude": 47.5615776782153,
+    "longitude": 4.52347576618195
+  },
+  {
+    "monument_id": 9,
+    "id": 103722,
+    "name": "Ch�teau de Cadillac",
+    "latitude": 44.638101219349,
+    "longitude": -0.320652723312378
+  },
+  {
+    "monument_id": 67,
+    "id": 103731,
+    "name": "Ch�teau de Carrouges",
+    "latitude": 48.5601290798993,
+    "longitude": -0.154345035552979
+  },
+  {
+    "monument_id": 59,
+    "id": 103733,
+    "name": "Ch�teau de Castelnau-Bretenoux",
+    "latitude": 44.8992,
+    "longitude": 1.8256
+  },
+  {
+    "monument_id": 13,
+    "id": 103743,
+    "name": "Ch�teau de Chareil-Cintrat",
+    "latitude": 46.2394201556751,
+    "longitude": 3.22972297668457
+  },
+  {
+    "monument_id": 33,
+    "id": 103747,
+    "name": "Ch�teau de Ch�teaudun",
+    "latitude": 48.0707956173737,
+    "longitude": 1.32372379302979
+  },
+  {
+    "monument_id": 82,
+    "id": 103756,
+    "name": "Ch�teau de Coucy",
+    "latitude": 49.521774855251,
+    "longitude": 3.31861138343811
+  },
+  {
+    "monument_id": 31,
+    "id": 103764,
+    "name": "Ch�teau de Foug�res-sur-Bi�vre",
+    "latitude": 47.4477388488549,
+    "longitude": 1.3438081741333
+  },
+  {
+    "monument_id": 62,
+    "id": 103769,
+    "name": "Ch�teau de Gramont",
+    "latitude": 43.9580329,
+    "longitude": 0.9211763
+  },
+  {
+    "monument_id": 37,
+    "id": 111775,
+    "name": "Ch�teau de La Motte-Tilly",
+    "latitude": 48.4671345668952,
+    "longitude": 3.43147337436676
+  },
+  {
+    "monument_id": 2,
+    "id": 103798,
+    "name": "Ch�teau de Maisons",
+    "latitude": 48.9471671045817,
+    "longitude": 2.15389966964722
+  },
+  {
+    "monument_id": 382,
+    "id": 103829,
+    "name": "Ch�teau de Montal",
+    "latitude": 44.8624197,
+    "longitude": 1.8599192
+  },
+  {
+    "monument_id": 81,
+    "id": 103859,
+    "name": "Ch�teau de Pierrefonds",
+    "latitude": 49.3469937613645,
+    "longitude": 2.98019707202911
+  },
+  {
+    "monument_id": 383,
+    "id": 103861,
+    "name": "Ch�teau de Puyguilhem",
+    "latitude": 45.425833,
+    "longitude": 0.744444
+  },
+  {
+    "monument_id": 46,
+    "id": 111769,
+    "name": "Ch�teau de Rambouillet, Laiterie de la Reine et Chaumi�re aux Coquillages",
+    "latitude": 48.6454040146198,
+    "longitude": 1.81732803583145
+  },
+  {
+    "monument_id": 32,
+    "id": 103877,
+    "name": "Ch�teau de Talcy",
+    "latitude": 47.7697553616761,
+    "longitude": 1.44447684288025
+  },
+  {
+    "monument_id": 12,
+    "id": 103887,
+    "name": "Ch�teau de Villeneuve-Lembron",
+    "latitude": 45.4779965450436,
+    "longitude": 3.18597078323364
+  },
+  {
+    "monument_id": 44,
+    "id": 103890,
+    "name": "Ch�teau de Vincennes",
+    "latitude": 48.84266824545,
+    "longitude": 2.43570327758789
+  },
+  {
+    "monument_id": "",
+    "id": 4643309,
+    "name": "Ch�teau de Villers-Cotter�ts",
+    "latitude": 49.2559,
+    "longitude": 3.092076
+  },
+  {
+    "monument_id": 377,
+    "id": 103894,
+    "name": "Ch�teau de Voltaire � Ferney",
+    "latitude": 46.2581309,
+    "longitude": 6.1043544
+  },
+  {
+    "monument_id": 42,
+    "id": 108038,
+    "name": "Ch�teau et Parc de Champs-sur-Marne",
+    "latitude": 48.8536468310556,
+    "longitude": 2.60403871536255
+  },
+  {
+    "monument_id": 55,
+    "id": 103725,
+    "name": "Ch�teau et remparts de la cit� de Carcassonne",
+    "latitude": 43.2072833574495,
+    "longitude": 2.36326217651367
+  },
+  {
+    "monument_id": 87,
+    "id": 103739,
+    "name": "Clo�tre de la cath�drale de Fr�jus",
+    "latitude": 43.4330627773556,
+    "longitude": 6.73715114593506
+  },
+  {
+    "monument_id": 14,
+    "id": 103741,
+    "name": "Ensemble cath�drale du Puy-en-Velay",
+    "latitude": 45.0461801,
+    "longitude": 3.8848592
+  },
+  {
+    "monument_id": 25,
+    "id": 103776,
+    "name": "Clo�tre de la Psalette",
+    "latitude": 47.3958291154544,
+    "longitude": 0.694069862365723
+  },
+  {
+    "monument_id": "",
+    "id": 980635,
+    "name": "Colonne de Juillet, place de la Bastille",
+    "latitude": 48.853207,
+    "longitude": 2.369101
+  },
+  {
+    "monument_id": 103,
+    "id": 111781,
+    "name": "Colonne de la Grande Arm�e � Wimille",
+    "latitude": 50.7644118,
+    "longitude": 1.6310642
+  },
+  {
+    "monument_id": 70,
+    "id": 103754,
+    "name": "Conciergerie",
+    "latitude": 48.8558175524787,
+    "longitude": 2.34595119953156
+  },
+  {
+    "monument_id": 384,
+    "id": 111772,
+    "name": "Domaine national de Jossigny",
+    "latitude": 48.8374322716853,
+    "longitude": 2.75358259677887
+  },
+  {
+    "monument_id": 40,
+    "id": 103863,
+    "name": "Domaine national de Saint-Cloud",
+    "latitude": 48.836821431274,
+    "longitude": 2.21820831298828
+  },
+  {
+    "monument_id": 107,
+    "id": 103851,
+    "name": "Domaine national du Palais-Royal",
+    "latitude": 48.864972372625,
+    "longitude": 2.33773827552795
+  },
+  {
+    "monument_id": 53,
+    "id": 103760,
+    "name": "Fort Saint-Andr� � Villeneuve-lez-Avignon",
+    "latitude": 43.9662,
+    "longitude": 4.8001
+  },
+  {
+    "monument_id": 56,
+    "id": 103871,
+    "name": "Forteresse de Salses",
+    "latitude": 42.8396802790619,
+    "longitude": 2.91830241680145
+  },
+  {
+    "monument_id": 6,
+    "id": 111778,
+    "name": "Grotte de Pair-non-Pair",
+    "latitude": 45.0396354,
+    "longitude": -0.5022214
+  },
+  {
+    "monument_id": "",
+    "id": 119669,
+    "name": "H�tel de la Marine",
+    "latitude": 48.86661,
+    "longitude": 2.322681
+  },
+  {
+    "monument_id": "",
+    "id": 55135,
+    "name": "H�tel de Sade",
+    "latitude": 43.789129,
+    "longitude": 4.83102
+  },
+  {
+    "monument_id": 208,
+    "id": 111780,
+    "name": "H�tel de Sully",
+    "latitude": 48.854703,
+    "longitude": 2.363875
+  },
+  {
+    "monument_id": 375,
+    "id": 111770,
+    "name": "Les Eyzies-de-Tayac",
+    "latitude": 44.935997691242,
+    "longitude": 1.01565062999725
+  },
+  {
+    "monument_id": 21,
+    "id": 111776,
+    "name": "Maison d'Ernest Renan � Tr�guier",
+    "latitude": 48.788491,
+    "longitude": -3.2271867
+  },
+  {
+    "monument_id": 28,
+    "id": 103791,
+    "name": "Maison de George Sand � Nohant",
+    "latitude": 46.6254445,
+    "longitude": 1.9749036
+  },
+  {
+    "monument_id": 80,
+    "id": 108048,
+    "name": "Maison de Georges Clemenceau � Saint-Vincent-sur-Jard",
+    "latitude": 46.4063,
+    "longitude": -1.5474
+  },
+  {
+    "monument_id": 45,
+    "id": 103793,
+    "name": "Maison des Jardies � S�vres",
+    "latitude": 48.8272072,
+    "longitude": 2.1985906
+  },
+  {
+    "monument_id": 96,
+    "id": 103873,
+    "name": "Monast�re de Saorge",
+    "latitude": 43.9878757,
+    "longitude": 7.5509564
+  },
+  {
+    "monument_id": 98,
+    "id": 103716,
+    "name": "Monast�re royal de Brou � Bourg-en-Bresse",
+    "latitude": 46.1978767,
+    "longitude": 5.2356066
+  },
+  {
+    "monument_id": 102,
+    "id": 119871,
+    "name": "Mus�e des Plans-Reliefs",
+    "latitude": 48.8564775743156,
+    "longitude": 2.31269717216492
+  },
+  {
+    "monument_id": 39,
+    "id": 108058,
+    "name": "Palais du Tau � Reims",
+    "latitude": 49.2530901204998,
+    "longitude": 4.03418183326721
+  },
+  {
+    "monument_id": 34,
+    "id": 103848,
+    "name": "Palais Jacques C�ur � Bourges",
+    "latitude": 47.085296,
+    "longitude": 2.3944818
+  },
+  {
+    "monument_id": 73,
+    "id": 103853,
+    "name": "Panth�on",
+    "latitude": 48.8462842078404,
+    "longitude": 2.34607324004173
+  },
+  {
+    "monument_id": 95,
+    "id": 103807,
+    "name": "Place forte de Mont-Dauphin",
+    "latitude": 44.6691299,
+    "longitude": 6.6252286
+  },
+  {
+    "monument_id": 71,
+    "id": 103867,
+    "name": "Sainte-Chapelle",
+    "latitude": 48.8553675326006,
+    "longitude": 2.3450231552124
+  },
+  {
+    "monument_id": 91,
+    "id": 103766,
+    "name": "Site arch�ologique de Glanum",
+    "latitude": 43.7736,
+    "longitude": 4.833
+  },
+  {
+    "monument_id": 8,
+    "id": 103833,
+    "name": "Site arch�ologique de Montcaret",
+    "latitude": 44.8587327,
+    "longitude": 0.0638404
+  },
+  {
+    "monument_id": 65,
+    "id": 103842,
+    "name": "Site arch�ologique de Montmaurin",
+    "latitude": 43.2246742,
+    "longitude": 0.6370025
+  },
+  {
+    "monument_id": 52,
+    "id": 103758,
+    "name": "Site arch�ologique et mus�e d'Ens�rune",
+    "latitude": 43.310556,
+    "longitude": 3.115278
+  },
+  {
+    "monument_id": 381,
+    "id": 103787,
+    "name": "Site des m�galithes de Locmariaquer",
+    "latitude": 47.5732972,
+    "longitude": -2.9574633
+  },
+  {
+    "monument_id": 86,
+    "id": 108060,
+    "name": "Site gallo-romain de Sanxay",
+    "latitude": 46.4941324,
+    "longitude": -0.0070385
+  },
+  {
+    "monument_id": 35,
+    "id": 103735,
+    "name": "Tour et crypte de la cath�drale de Bourges",
+    "latitude": 47.0824115207644,
+    "longitude": 2.3984956741333
+  },
+  {
+    "monument_id": 10,
+    "id": 103855,
+    "name": "Tour Pey-Berland � Bordeaux",
+    "latitude": 44.8379962,
+    "longitude": -0.5777064
+  },
+  {
+    "monument_id": 27,
+    "id": 108031,
+    "name": "Tours de la cath�drale de Chartres",
+    "latitude": 48.4477636872284,
+    "longitude": 1.48798227310181
+  },
+  {
+    "monument_id": 29,
+    "id": 108034,
+    "name": "Tours de la cath�drale de Reims",
+    "latitude": 49.2534,
+    "longitude": 4.033
+  },
+  {
+    "monument_id": 75,
+    "id": 103844,
+    "name": "Tours de la cath�drale Notre-Dame de Paris",
+    "latitude": 48.8529761826414,
+    "longitude": 2.34995305538177
+  },
+  {
+    "monument_id": 51,
+    "id": 108046,
+    "name": "Tours de La Rochelle",
+    "latitude": 46.1558010144313,
+    "longitude": -1.15323185920715
+  },
+  {
+    "monument_id": 54,
+    "id": 111763,
+    "name": "Tours et remparts d'Aigues-Mortes",
+    "latitude": 43.5678143607364,
+    "longitude": 4.19086575508118
+  },
+  {
+    "monument_id": 108,
+    "id": 111765,
+    "name": "Tours et tr�sor de la cath�drale d'Amiens",
+    "latitude": 49.895,
+    "longitude": 2.302222
+  },
+  {
+    "monument_id": 97,
+    "id": 103785,
+    "name": "Troph�e d'Auguste � La Turbie",
+    "latitude": 43.7448050133043,
+    "longitude": 7.40184009075165
+  },
+  {
+    "monument_id": 386,
+    "id": 39345,
+    "name": "Villa Cavrois",
+    "latitude": 50.666709,
+    "longitude": 3.162723
+  },
+  {
+    "monument_id": "",
+    "id": 119885,
+    "name": "Villa K�rylos",
+    "latitude": 43.70316,
+    "longitude": 7.333887
+  },
+  {
+    "monument_id": 48,
+    "id": 103884,
+    "name": "Monast�re royal de Brou � Bourg-en-Bresse",
+    "latitude": 48.9244255560091,
+    "longitude": 2.02827036380768
+  }
+]
